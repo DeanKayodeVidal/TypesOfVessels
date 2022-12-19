@@ -1,0 +1,41 @@
+newmtl AnchorsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Anchor.tga
+Ni 1.00
+newmtl GlassesSG
+illum 4
+Kd 0.15 0.36 0.50
+Ka 0.00 0.00 0.00
+Tf 0.64 0.64 0.64
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.19
+newmtl LinerSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.11 0.12 0.13
+Tf 1.00 1.00 1.00
+map_Kd Liner.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl LinerSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd CafeObjects.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl WaterSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.62 0.62 0.62
+map_Kd Water.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
