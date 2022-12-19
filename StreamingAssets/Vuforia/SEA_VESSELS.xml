@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="trawler_boat2" size="100.000000 100.000000" />
+    <ImageTarget name="oil_tanker_boat2" size="100.000000 59.960938" />
+    <ImageTarget name="oil_tanker_boat" size="100.000000 87.428574" />
+    <ImageTarget name="motor_boat2" size="100.000000 100.000000" />
+    <ImageTarget name="motor_boat" size="100.000000 100.000000" />
+    <ImageTarget name="roro_boat2" size="100.000000 63.358780" />
+    <ImageTarget name="roro_boat" size="100.000000 72.952087" />
+    <ImageTarget name="sail_boat2" size="100.000000 100.000000" />
+    <ImageTarget name="passenger_boat2" size="100.000000 100.000000" />
+    <ImageTarget name="passenger_boat" size="100.000000 100.000000" />
+    <ImageTarget name="sail_boat" size="100.000000 100.000000" />
+    <ImageTarget name="container_boat" size="100.000000 100.000000" />
+    <ImageTarget name="trawler" size="100.000000 100.000000" />
+    <ImageTarget name="cargo" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
